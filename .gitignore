@@ -1,5 +1,4 @@
 /*
 !.gitignore
 
-!/02_K-Means.ipynb
-!/03_Hierarchical_Clustering.ipynb
+!/01_Feature_Scaling.ipynb
