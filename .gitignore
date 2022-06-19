@@ -1,7 +1,5 @@
 /*
 !.gitignore
 
-!/05_Softmargin_Classification.ipynb
-!/06_K_Fold_Cross_Validation.ipynb
-!/07_Decision_Tree.ipynb
-!/08_Random_Forest.ipynb
+!/09_PCA.ipynb
+!/data
