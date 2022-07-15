@@ -1,5 +1,4 @@
 /*
 !.gitignore
 
-!/05_SVM_Softmargin_Classifier.ipynb
-!/09_PCA.ipynb
+!/10_Gradient_Descent.ipynb
